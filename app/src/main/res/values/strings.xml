@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MTMs.Task</string>
+    <string name="noconnection">noconnection</string>
+    <string name="gps">Gps</string>
+    <string name="Gpsneed">Open Gps needed</string>
+    <string name="loading">loading</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="REQUESTED">REQUESTED</string>
+    <string name="your_location">Your Location</string>
+    <string name="destination">Destination</string>
+</resources>
